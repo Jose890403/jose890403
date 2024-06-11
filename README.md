@@ -26,7 +26,7 @@
     </li>
 </ul>
 
-<h3>Tools from Design:</h3>
+<h3>Design Tools:</h3>
 <ul style="display: flex; list-style: none; padding: 0;">
     <li style="margin-right: 10px;">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
