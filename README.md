@@ -41,7 +41,7 @@
       </a> 
     </li>
   </ul>
-  <ul display="flex"> <h3>Tools :</h3>
+  <ul align="left"> <h3>Tools :</h3>
     <li>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
