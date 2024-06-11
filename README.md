@@ -82,8 +82,5 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
         </a>
         <span>React</span>
-        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-            <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-        </a>
-        <span>React Native</span>
+        
 </p>
