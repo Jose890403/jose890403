@@ -41,56 +41,57 @@
       </a> 
     </li>
   </ul>
-  <ul align="left"> <h3>Tools :</h3>
-    <li>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-      </a>  
-    </li>
-    <li>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-      </a> 
-    </li>
-    <li>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-      </a> 
-    </li>
-    <li>
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-      </a>
-    </li>
-    <li>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-      </a> 
-    </li>
-    <li>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-      </a> 
-    </li>
-    <li>
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-      </a>
-    </li>
-    <li>
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-      </a> 
-    </li>
-    <li>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-    </li>
-    <li>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-      </a> 
-    </li>
-  </ul>
+  <div class="tools" style="display: flex;">
+   <h3>Tools :</h3>
+      <h4>Flask
+         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+           <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+         </a> 
+      </h4>
+      <h4>Git
+         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>Html5
+         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>Jest
+         <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+           <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>Mysql
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>Node.js
+         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>Oracle
+         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+         </a>
+      </h4>
+      <h4>Postman
+         <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+         </a>
+      </h4>
+      <h4>React.js
+         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+         </a>
+      </h4>
+      <h4>ReacNative
+         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+           <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+         </a> 
+      </h4>
+  </div>
 </p>
