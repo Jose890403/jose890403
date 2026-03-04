@@ -53,13 +53,11 @@ Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico p
 
 ### 🗄️ Bases de Datos & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
 ### 🧰 Herramientas & Otros
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="50"/>
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="50"/><img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" height="40"/></p>
 
 ---
 
