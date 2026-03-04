@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=JOSE%20LUIS%20ROMERO%20GONZALEZ&fontSize=70&fontColor=36BCF7&animation=twinkling&fontAlignY=40" width="100%" alt="Jose Luis Romero Tech Title" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=JOSE%20LUIS%20ROMERO%20G.&fontSize=70&fontColor=36BCF7&animation=twinkling&fontAlignY=40" width="100%" alt="Jose Luis Romero Tech Title" />
 
 <br/>
 
