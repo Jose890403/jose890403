@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4CAF50&height=120&text=%F0%9F%91%8B%20Hola,%20soy%20Jos%C3%A9%20Luis%20Romero%20G.&fontSize=40&fontAlignY=50&fontFamily=Istok+Web&stroke=000000&strokeWidth=2" alt="Jose Luis Romero G. Title" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=120&text=%F0%9F%91%8B%20Hola,%20soy%20Jos%C3%A9%20Luis%20Romero%20G.&fontSize=40&fontAlignY=50&fontFamily=Istok+Web&stroke=000000&strokeWidth=2" alt="Jose Luis Romero G. Title" />
 
   <br />
 
