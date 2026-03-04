@@ -1,71 +1,84 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=👋%20Hola,%20soy%20José%20Luis%20Romero%20G.&fontSize=40&fontColor=ffffff&fontAlignY=35"/>
+
+---
+
+### <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="40"> **Fullstack Junior Developer | Python & React Specialist**
+**Conectando tecnología entre Colombia 🇨🇴 y España 🇪🇸**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=>>_FULLSTACK_JUNIOR_DEVELOPER;Python_%26_React_Enthusiast_🐶;Creador_de_DogMeet_🐾;Siempre_Aprendiendo_Nuevas_Tecnologías..." />
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+Soy un **Desarrollador Fullstack Junior** apasionado por crear soluciones que conecten personas (y mascotas 🐾). Vivo entre **Colombia 🇨🇴 y España 🇪🇸**, combinando creatividad, lógica y un enfoque práctico para construir aplicaciones modernas.
+
+- 🎓 **Proyecto de Grado:** Creador de **DogMeet**, una plataforma para la comunidad canina.  
+- 🚀 **Objetivo:** Crecer en entornos ágiles y aportar a proyectos escalables.  
+- 📧 **Email:** [zeromero_03@hotmail.com](mailto:zeromero_03@hotmail.com)  
+- 💼 **LinkedIn:** [jose-luis-romero-gonzalez](https://linkedin.com/in/jose-luis-romero-gonzalez)  
+
+---
+
+## 🐾 Proyecto Destacado: **DogMeet**
+Mi proyecto más ambicioso, donde integré todo mi stack para resolver una necesidad real: conectar dueños de perros y fomentar comunidad.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=120&text=%F0%9F%91%8B%20Hola,%20soy%20Jos%C3%A9%20Luis%20Romero%20G.&fontSize=40&fontAlignY=50&fontFamily=Istok+Web&stroke=000000&strokeWidth=2" alt="Jose Luis Romero G. Title" />
-
-  <br />
-
----
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=>>_FULLSTACK_JUNIOR_DEVELOPER;<%_Python_%26_React_Enthusiast_%F0%9F%90%B6/>;>>_Creator_of_DogMeet_%5BFinal_Project%5D;Always_Learning_New_Tech..." alt="Typing SVG Tech" />
-
-</div>
-
----
-  <h3>🚀 Fullstack Junior Developer | Python & React Specialist</h3>
-  <p><b>Bridging Technology between Colombia 🇨🇴 and Spain 🇪🇸</b></p>
-
-</div>
-
----
-
-### 👨‍💻 Sobre mí
-Soy un desarrollador **Fullstack Junior** apasionado por crear soluciones tecnológicas que conecten a las personas (y a sus mascotas). Con base en **Colombia 🇨🇴 y España 🇪🇸**, combino una mentalidad creativa con una base técnica sólida en el ecosistema de JavaScript y Python.
-
-- 🎓 **Proyecto de Grado:** Creador de **DogMeet**, una plataforma para la comunidad canina.
-- 🚀 **Objetivo:** Seguir creciendo en entornos ágiles y contribuir a proyectos escalables.
-- 📧 **Contacto:** [zeromero_03@hotmail.com](mailto:zeromero_03@hotmail.com)
-- 💼 **LinkedIn:** [jose-luis-romero-gonzalez](https://linkedin.com/in/jose-luis-romero-gonzalez)
-
----
-
-### 🌟 Proyecto Destacado: DogMeet 🐾
-Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico para resolver una necesidad real.
-
-<p align="center">
   <a href="https://github.com/Jose890403/DogMeet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose890403&repo=DogMeet&theme=tokyonight&show_owner=true" alt="DogMeet Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose890403&repo=DogMeet&theme=tokyonight&show_owner=true" />
   </a>
-</p>
+</div>
 
-- **¿Qué es?** Una plataforma diseñada para conectar dueños de perros, facilitando encuentros y comunidad.
-- **Tech Stack:** React (Frontend), Python/Flask (Backend), MySQL (DB), Bootstrap & Sass (Diseño).
-- **Reto:** Implementar una arquitectura limpia y una experiencia de usuario intuitiva.
+### 🔍 ¿Qué es DogMeet?
+- Una plataforma para que dueños de perros puedan encontrarse, socializar y crear comunidad.  
+- **Stack:** React · Python/Flask · MySQL · Bootstrap · Sass  
+- **Reto:** Arquitectura limpia + UX intuitiva  
+- **Resultado:** Una app funcional, escalable y con propósito real  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
+### 🔧 Lenguajes & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130" height="40" alt="python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="140" height="40" alt="javascript" />
-  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" width="120" height="40" alt="odoo" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="120" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,html,css,sass,bootstrap" height="50"/>
 </p>
 
+### 🗄️ Bases de Datos & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="120" height="40" alt="flask" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="130" height="40" alt="mysql" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="40" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="110" height="40" alt="css3" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50"/>
 </p>
 
+### 🧰 Herramientas & Otros
 <p align="left">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" width="110" height="40" alt="sass" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="140" height="40" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="130" height="40" alt="github" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="130" height="40" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="50"/>
 </p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jose890403&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose890403&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🌐 Conectemos
+<div align="center">
+  <a href="mailto:zeromero_03@hotmail.com"><img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jose-luis-romero-gonzalez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+
 
 
