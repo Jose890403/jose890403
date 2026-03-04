@@ -1,8 +1,24 @@
 <div align="center">
   
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=200&section=header&text=HOLA SOY JOSÉ LUIS ROMERO G.&fontSize=50&fontAlignY=35&fontAlign=center&stroke=black&strokeWidth=3&fontFamily=comic&animation=twinkling" width="100%" />
-</p>
+<div align="center">
+  <svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <path d="M20,30 Q15,25 30,22 T770,25 Q785,28 782,45 T775,120 Q770,135 750,132 T40,135 Q20,132 25,110 T20,30" 
+          fill="#4CAF50" stroke="black" stroke-width="3" />
+    
+    <path d="M25,35 Q20,30 35,28 T765,30 Q780,33 777,50 T770,115 Q765,130 745,127 T45,130 Q25,127 30,105 T25,35" 
+          fill="none" stroke="black" stroke-width="1.5" opacity="0.6" />
+
+    <text x="50%" y="85" text-anchor="middle" font-family="'Comic Sans MS', cursive, sans-serif" font-size="42" font-weight="bold" fill="black">
+      👋 Hola, soy José Luis Romero G.
+    </text>
+  </svg>
+
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Junior+Developer;JavaScript+%26+Python+Enthusiast;Creator+of+DogMeet+%F0%9F%90%B6" alt="Typing SVG" />
+</div>
+
+---
 
 <br/>
 
