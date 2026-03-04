@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jose Luis Romero Gonzalez</h1>
+ <div align="center">
+  <h1>Jose Luis Romero Gonzalez</h1>
+  <h3>🚀 Fullstack Junior Developer | Python & React Specialist</h3>
+  <p><b>Bridging Technology between Colombia 🇨🇴 and Spain 🇪🇸</b></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+Scalable+Code;Creator+of+DogMeet+%F0%9F%90%B6;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Fullstack+Junior+Developer;JavaScript+%26+Python+Enthusiast;Creator+of+DogMeet+%F0%9F%90%B6" alt="Typing SVG" />
 </p>
