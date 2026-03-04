@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Jose%20Luis%20Romero&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=JOSE%20LUIS%20ROMERO%20GONZALEZ&fontSize=70&fontColor=36BCF7&animation=twinkling&fontAlignY=40" width="100%" alt="Jose Luis Romero Tech Title" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=>>_FULLSTACK_JUNIOR_DEVELOPER;<%_Python_%26_React_Enthusiast_%F0%9F%90%B6/>;>>_Creator_of_DogMeet_%5BFinal_Project%5D;Always_Learning_New_Tech..." alt="Typing SVG Tech" />
+
+</div>
+
+---
   <h3>🚀 Fullstack Junior Developer | Python & React Specialist</h3>
   <p><b>Bridging Technology between Colombia 🇨🇴 and Spain 🇪🇸</b></p>
   
