@@ -52,10 +52,4 @@ Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico p
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
-### 📊 Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jose890403&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose890403&layout=compact&theme=tokyonight" />
-</p>
