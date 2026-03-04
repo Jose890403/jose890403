@@ -1,86 +1,51 @@
 <h1 align="center">Hi 👋, I'm Jose Luis Romero Gonzalez</h1>
-<h3 align="center">A passionate and Enthusiastic developer with a special interest in technologies From Colombia-Spain</h3>
-
-- 📫 How to reach me **zeromero_03@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-   <a href="https://linkedin.com/in/www.linkedin.com/in/jose-luis-romero-gonzalez" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jose-luis-romero-gonzalez" height="30" width="40" />
-   </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Enthusiastic+Tech+Learner;From+Colombia+%F0%9F%87%A8%F0%9F%87%B4+to+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 </p>
 
-<h2 align="left">LANGUAGES AND TOOLS :</h2>
+---
 
-<h3>Languages :</h3>
-<ul style="display: flex; list-style: none; padding: 0;">
-    <li style="margin-right: 10px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-    </li>
-    <li style="margin-right: 10px;">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-    </li>
-</ul>
+### 🚀 Sobre mí
+Soy un desarrollador apasionado y entusiasta con especial interés en las tecnologías modernas. Actualmente navegando entre los ecosistemas de Colombia y España para crear soluciones digitales increíbles.
 
-<h3>Design Tools:</h3>
-<ul style="display: flex; list-style: none; padding: 0;">
-    <li style="margin-right: 10px;">
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-    </li>
-    <li style="margin-right: 10px;">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-    </li>
-    <li style="margin-right: 10px;">
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        </a>
-    </li>
-</ul>
+- 📧 **Contacto:** [zeromero_03@hotmail.com](mailto:zeromero_03@hotmail.com)
+- 💼 **LinkedIn:** [Conectemos en LinkedIn](https://linkedin.com/in/jose-luis-romero-gonzalez)
 
-<h3>Tools :</h3>
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-        </a>
-        <span>Flask</span>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
-        <span>Git</span>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        </a>
-        <span>HTML5</span>
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-        </a>
-        <span>Jest</span>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <span>MySQL</span>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-        <span>Node.js</span>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-        </a>
-        <span>Oracle</span>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        </a>
-        <span>Postman</span>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-        <span>React</span>
-        
+---
+
+### 🛠️ Lenguajes y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" />
 </p>
