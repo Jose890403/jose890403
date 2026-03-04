@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jose Luis Romero Gonzalez</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Jose%20Luis%20Romero&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   <h3>🚀 Fullstack Junior Developer | Python & React Specialist</h3>
   <p><b>Bridging Technology between Colombia 🇨🇴 and Spain 🇪🇸</b></p>
   
