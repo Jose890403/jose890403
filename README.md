@@ -45,6 +45,8 @@ Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico p
 ---
 
 ## 🛠️ Tecnologías y Herramientas
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ### 🔧 Lenguajes & Frameworks
 <p align="left">
