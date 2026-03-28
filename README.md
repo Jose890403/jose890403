@@ -45,8 +45,6 @@ Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico p
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 ### 🔧 Lenguajes & Frameworks
@@ -63,6 +61,11 @@ Mi proyecto de grado más ambicioso, donde apliqué todo mi stack tecnológico p
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="50"/><img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" height="40"/></p>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🌐 Conectemos
 <div align="center">
